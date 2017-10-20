@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/aidazuaudiovisuales/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/aidazuaudiovisuales/github/UlmaWebView/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_7729713b5dcdbf9d7b2c65aa98cc598d56521bc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aidazuaudiovisuales/.android/build-cache/6f5f604e6fa01c6bb45c3d83b9f5e96285a5e3c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/aidazuaudiovisuales/github/UlmaWebView/app/build/intermediates/pre-dexed/debug/classes_356018c2f94d6448c56769d5d27220772a9f37f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aidazuaudiovisuales/.android/build-cache/09e6295810e034058fcce778ef6cdb25a458b1df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/aidazuaudiovisuales/github/UlmaWebView/app/build/intermediates/pre-dexed/debug/classes_c9ebf0fad1adae94f0f65e2d02d17f12835d9c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aidazuaudiovisuales/.android/build-cache/1f63f5d2e9e69b8db491f190fa64939494f2ad40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/aidazuaudiovisuales/github/UlmaWebView/app/build/intermediates/pre-dexed/debug/classes_75cbc3da4655a61cbfaca277b6069d9b3620d1f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aidazuaudiovisuales/.android/build-cache/c565c725756622db91638b1ce3ca005ffe205ac9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/aidazuaudiovisuales/github/UlmaWebView/app/build/intermediates/pre-dexed/debug/classes_bab577055a43970c0038d3d830548aa77f7ac6c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aidazuaudiovisuales/.android/build-cache/48a3a2b384d4a575f321df4aa0098a148bc19273/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/aidazuaudiovisuales/github/UlmaWebView/app/build/intermediates/pre-dexed/debug/classes_59e0a6b7dfafa98513095f114ab762171c736cfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aidazuaudiovisuales/.android/build-cache/3a6cc86f205ae8cbdebd1d91b70b7b6c89aa26bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/aidazuaudiovisuales/github/UlmaWebView/app/build/intermediates/pre-dexed/debug/classes_7a5d5d7345e0555d11b51f1e1367dec5b8fd6ac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aidazuaudiovisuales/.android/build-cache/6d78c84e16d1c21e9e65de3fc01dea1f93a72e92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/aidazuaudiovisuales/github/UlmaWebView/app/build/intermediates/pre-dexed/debug/classes_cda46eef07bc057ef70751348b47a62169d434bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aidazuaudiovisuales/.android/build-cache/fa7d7f319c01cdd9ca7efd010f19da558d9f8972/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/aidazuaudiovisuales/github/UlmaWebView/app/build/intermediates/pre-dexed/debug/classes_d9f1c75afcd344c2ae75ce3df2da684a25fc0803.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aidazuaudiovisuales/.android/build-cache/d3ab33f60fb5df9657ff3352624cc74ba14ae62a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/aidazuaudiovisuales/github/UlmaWebView/app/build/intermediates/pre-dexed/debug/classes_bd286e2e7d86359d6588b2bcf958bb1bbec28e58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aidazuaudiovisuales/.android/build-cache/9b599080b032421ca991a9480bde64bac1008c2d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/aidazuaudiovisuales/github/UlmaWebView/app/build/intermediates/pre-dexed/debug/classes_b95fd2ddde6decdb3c0fb4a0da111ca7cceae06d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aidazuaudiovisuales/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/aidazuaudiovisuales/github/UlmaWebView/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_9c5adb56301165545e4f1e6b0b1baf979af7e13a.jar" />
+    </item>
+
+</items>
