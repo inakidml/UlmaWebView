@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         WebView web = (WebView)findViewById(R.id.web_view);
         web.getSettings().setJavaScriptEnabled(true);
         web.setWebViewClient(new WebClient()); //para que no abra otro browser
-        web.loadUrl("https://ulma.com/ES/index.php");
+        web.loadUrl("file:///mnt/usb_storage/USB_DISK0/web prueba/index.html");
     }
 
     private class WebClient extends WebViewClient {   //para que no se abra otro browser
